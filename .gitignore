@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build Output
+dist/
+.next/
+coverage/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Turbo
+.turbo/
+
+# TypeScript
+*.tsbuildinfo
+
+# PNPM
+.pnpm-store/
+
+# Generated
+packages/**/src/client/generated/
